@@ -2,6 +2,10 @@
 
 A platform for uploading and solving questions created by users, similar to YouTube but with a focus on academic questions instead of videos.
 
+### Project in progress
+
+Test link : https://rad-croquembouche-a07bc3.netlify.app/
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
@@ -72,8 +76,3 @@ This project provides a platform where users can upload, solve, and download aca
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-project.git
-
-
-## Project in progress
-
-Test link : https://rad-croquembouche-a07bc3.netlify.app/
